@@ -1,0 +1,15 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "Shweta Rani node tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shweta Rani",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
+  }
+}
